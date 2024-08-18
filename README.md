@@ -20,6 +20,8 @@ You will need following Python Libraries to run this project: <br>
 ## You can install the required libraries using pip: <br>
 pip install matplotlib colorama emoji
 <br>
+pip install matplotlib <br>
+pip install emoji <br>
 ### How to Play <br>
 
 1. **Get the repository:** Clone this repo to your local machine. <br>
