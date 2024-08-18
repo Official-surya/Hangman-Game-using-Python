@@ -1,4 +1,4 @@
-![Screenshot 2024-08-18 203435](https://github.com/user-attachments/assets/1a4d0a40-c80c-446f-8e41-f2465cafd9e6)### Hangman Game with Visualization <br>
+### Hangman Game with Visualization <br>
 
 Welcome to the Hangman Game! The Hangman word guessing game enhanced with visuals using Matplotlib and emojis, written in Python. Guess words in various categories from your friends, ask for a hint or see how well you do while completing. <br>
 
