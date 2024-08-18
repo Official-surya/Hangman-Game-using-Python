@@ -1,0 +1,10 @@
+sparrow
+eagle
+parrot
+peacock
+penguin
+flamingo
+ostrich
+owl
+pigeon
+woodpecker

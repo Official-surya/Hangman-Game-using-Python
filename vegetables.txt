@@ -1,0 +1,10 @@
+carrot
+broccoli
+spinach
+potato
+tomato
+cucumber
+onion
+lettuce
+cauliflower
+pepper

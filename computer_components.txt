@@ -1,0 +1,200 @@
+CPU (Central Processing Unit)
+GPU (Graphics Processing Unit)
+RAM (Random Access Memory)
+Motherboard
+Power Supply Unit (PSU)
+Hard Disk Drive (HDD)
+Solid State Drive (SSD)
+Optical Drive (CD/DVD/Blu-ray Drive)
+Monitor
+Keyboard
+Mouse
+Case (Computer Chassis)
+Heat Sink
+CPU Cooler
+Thermal Paste
+Graphics Card
+Network Interface Card (NIC)
+Sound Card
+USB Flash Drive
+External Hard Drive
+Internal Hard Drive
+Ethernet Cable
+SATA Cable
+IDE Cable
+Power Cable
+Motherboard Standoffs
+CMOS Battery
+BIOS Chip
+Chipset
+PCI Slot
+PCIe Slot
+AGP Slot
+ISA Slot
+DIMM Slot
+SIMM Slot
+VRAM (Video RAM)
+SLI Bridge
+Crossfire Bridge
+M.2 SSD
+NVMe SSD
+Fan
+Case Fan
+CPU Fan
+GPU Fan
+Liquid Cooling System
+Radiator
+Fan Controller
+Dust Filter
+USB Hub
+USB Port
+HDMI Port
+DisplayPort
+VGA Port
+DVI Port
+RJ45 Port
+Audio Jack
+Headphone Jack
+Microphone Jack
+FireWire Port
+Thunderbolt Port
+Bluetooth Adapter
+Wi-Fi Adapter
+Modem
+Router
+Switch
+Hub
+Access Point
+Patch Panel
+UPS (Uninterruptible Power Supply)
+Surge Protector
+Webcam
+Microphone
+Speakers
+Subwoofer
+Headset
+Joystick
+Gamepad
+Graphics Tablet
+Stylus
+Printer
+Scanner
+Plotter
+Projector
+Webcam Cover
+Cable Management Sleeve
+Cable Ties
+KVM Switch
+Docking Station
+Laptop Battery
+Laptop Charger
+Laptop Cooling Pad
+Laptop Stand
+SSD Enclosure
+HDD Enclosure
+Drive Bay
+Optical Media (CD/DVD/Blu-ray Disc)
+SD Card
+microSD Card
+SD Card Reader
+CompactFlash Card
+Memory Stick
+SIM Card
+eSIM
+CMOS Sensor
+Touchpad
+Trackball
+Mechanical Keyboard
+Membrane Keyboard
+Chiclet Keyboard
+Backlit Keyboard
+Ergonomic Keyboard
+Wireless Keyboard
+Wireless Mouse
+Laser Mouse
+Optical Mouse
+Mouse Pad
+Mouse Bungee
+Mouse Feet
+USB Extender
+Wireless Adapter
+Bluetooth Dongle
+Ethernet Adapter
+Wi-Fi Extender
+Wi-Fi Card
+Wi-Fi Antenna
+SCSI Card
+SAS Controller
+RAID Controller
+RAID Card
+Parallel Port
+Serial Port
+Floppy Drive
+Zip Drive
+Tape Drive
+Memory Module
+DRAM (Dynamic RAM)
+SRAM (Static RAM)
+ECC RAM (Error-Correcting Code RAM)
+Register RAM
+Cache Memory
+BIOS (Basic Input/Output System)
+UEFI (Unified Extensible Firmware Interface)
+Firmware
+Operating System
+Boot Loader
+Disk Controller
+Keyboard Controller
+USB Controller
+Integrated Graphics
+Dedicated Graphics
+Power Button
+Reset Button
+LED Indicator
+Touch Screen
+Resistive Touchscreen
+Capacitive Touchscreen
+LCD (Liquid Crystal Display)
+LED (Light Emitting Diode) Display
+OLED (Organic LED) Display
+IPS (In-Plane Switching) Display
+TN (Twisted Nematic) Display
+VA (Vertical Alignment) Display
+CRT (Cathode Ray Tube) Monitor
+Plasma Display
+Backlight
+Inverter
+Touch Controller
+Digitizer
+Antiglare Screen
+Privacy Screen Filter
+Screen Protector
+Webcam Lens
+Optical Sensor
+Digital Signal Processor (DSP)
+DAC (Digital-to-Analog Converter)
+ADC (Analog-to-Digital Converter)
+Logic Board
+Daughterboard
+Expansion Card
+I/O Shield
+PCIe Riser
+SATA Controller
+NVMe Controller
+Power Distribution Board (PDB)
+Power Connector
+Molex Connector
+ATX Connector
+EPS Connector
+USB Type-C Connector
+USB Type-A Connector
+USB Type-B Connector
+USB Micro-B Connector
+USB Mini-B Connector
+Thunderbolt 3 Connector
+DisplayPort Connector
+HDMI Connector
+VGA Connector
+DVI Connector
+Fan Header
+Debug Card
